@@ -16,7 +16,7 @@ Membuat program yang akan menampilkan daftar nilai mahasiswa dengan ketentuan se
 - Membuat Flowchart
 
 ## **Source Code**
-Berikut source code lengkapnya: [https://github.com/miraashntnia/Lab_5/blob/master/Tugas%20Praktikum%205.py](url)
+Berikut source code lengkapnya: https://github.com/miraashntnia/Lab_5/blob/master/Tugas%20Praktikum%205.py
 
 ## **Penjelasan**
 
@@ -130,10 +130,24 @@ while True:                                                                     
 ## Flowchart
 ![github](https://github.com/miraashntnia/Lab_5/blob/master/FLOWCHART.jpg)
 
-## Screenshot Input
-ADD ADD
-LIST LIST
-SEARCH SEARCH
-EDIT EDIT
-DELETE DELETE
-QUIT QUIT
+## Screenshot Hasil Output
+- Tambah Data
+
+![github](https://github.com/miraashntnia/Lab_5/blob/master/Menampilkan%20Mneu%20Tambah%20Data.png)
+
+- Ubah Data
+
+![github](https://github.com/miraashntnia/Lab_5/blob/master/Menampilkan%20Menu%20Edit%20Data.png)
+
+- Hapus Data
+
+![github](https://github.com/miraashntnia/Lab_5/blob/master/Menampilkan%20Menu%20Hapus%20Data.png)
+
+- Tampilkan Data
+
+![github](https://github.com/miraashntnia/Lab_5/blob/master/Menampilkan%20Menu%20Tampilkan%20Data.png)
+
+- Cari Data
+
+![github](https://github.com/miraashntnia/Lab_5/blob/master/Menampilkan%20Menu%20Cari%20Data.png)
+
